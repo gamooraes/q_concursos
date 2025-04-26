@@ -5,14 +5,16 @@ pt-BR:
         one: Administrador
         other: Administradores
       profile:
-        one: Perfil
-        other: Perfis
+        one: Usuário
+        other: Usuários
     attributes:
       admin:
+        id: "Código"
         email: "E-mail"
         created_at: "Criado em"
         update_at: "Atualizado em"
-      profile:
+      user:
+        id: "Código"
         email: "E-mail"
         created_at: "Criado em"
         update_at: "Atualizado em"
